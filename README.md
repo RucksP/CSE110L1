@@ -8,7 +8,7 @@ I am a Mathematics-Computer Science student at UCSD who is interested in working
 
 My github can be found [here](https://github.com/RucksP)
 
-Here is a relative link to my cat.
+Here is a relative link to my [cat](cat.jpg).
 
 
 ## My favorite block of code
