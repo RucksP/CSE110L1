@@ -2,11 +2,13 @@
 
 
 
-## About Myself
+# About Myself
 
 I am a Mathematics-Computer Science student at UCSD who is interested in working as a software engineer once I graduate.
 
 My github can be found [here](https://github.com/RucksP)
+
+Here is a relative link to my cat.
 
 
 ## My favorite block of code
@@ -15,7 +17,7 @@ When coding I like to thing of this quote from my High School Physics Teacher
 
 > An Engineer will spend 2 weeks trying to save 5 minutes.
 
-I think the code I've written which most exemplifies this trait when I wanted to press 1 less button on my game controller and spent 2 days trying to make it a reality.
+I think the code I've written which most exemplifies this trait when I wanted to press 1 less button on my game controller and spent **2 days** trying to make it a reality.
 A  small snippet of the work I had to do can be seen here.
 
 ``` 
@@ -113,12 +115,23 @@ Some of the things I do in my free time include
  - Rock Climbing
  - Hiking
  - Playing Video Games
+   - Bastion
+   - SSBM
+   - Transistor
+   - Pyre
  
  Some of my favorite video games include
  
  [<img src="https://static-cdn.jtvnw.net/ttv-boxart/Super%20Smash%20Bros.%20Melee.jpg" width ="250"/>](SSBM) [<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Transistor_art.jpg" width ="250"/>](Transistor) [<img src="https://www.mobygames.com/images/covers/l/372094-bastion-xbox-one-front-cover.png" width ="250"/>](Bastion) [<img src="https://upload.wikimedia.org/wikipedia/en/a/ad/Pyre_cover_art.jpg" width ="250"/>](Pyre)
  
- My favorite of those 4 would most likely be **_Super Smash Bros. Melee_** for the Nintendo Gamecube
+ My favorite of those 4 would certainly be _Super Smash Bros. Melee_ for the Nintendo Gamecube
+ 
+ if I had to Rank Them in order
+ 
+ 1. SSBM
+ 2. Transistor
+ 3. Bastion
+ 4. Pyre
  
  
 
