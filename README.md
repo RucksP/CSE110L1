@@ -4,7 +4,9 @@
 
 ## About Myself
 
-I am a Mathematics-Computer Science student at UCSD who is interested in working as a software engineer once I graduate. 
+I am a Mathematics-Computer Science student at UCSD who is interested in working as a software engineer once I graduate.
+
+My github can be found [here](https://github.com/RucksP)
 
 
 ## My favorite block of code
@@ -112,7 +114,7 @@ Some of the things I do in my free time include
  - Hiking
  - Playing Video Games
  
- Some of my favorite games include
+ Some of my favorite video games include
  
  [<img src="https://static-cdn.jtvnw.net/ttv-boxart/Super%20Smash%20Bros.%20Melee.jpg" width ="250"/>](SSBM) [<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Transistor_art.jpg" width ="250"/>](Transistor) [<img src="https://www.mobygames.com/images/covers/l/372094-bastion-xbox-one-front-cover.png" width ="250"/>](Bastion) [<img src="https://upload.wikimedia.org/wikipedia/en/a/ad/Pyre_cover_art.jpg" width ="250"/>](Pyre)
  
