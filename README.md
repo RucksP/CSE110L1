@@ -1,14 +1,10 @@
 
 
-## Pictures
 
-## Links
 
-## Headings
+## About Myself
 
-### Smaller Headings
-
-#### Even Smaller Headings
+I am a Mathematics-Computer Science student at UCSD who is interested in working as a software engineer once I graduate. 
 
 ## Styled Texts
 
@@ -45,23 +41,29 @@ enum Buttons
   PAD_BUTTON_START = 0x1000,
 };
 ```
-## Hobbies
+## About myself
 
+Some of the things I do in my free time include
+
+ - Coding
  - Rock Climbing
- - Games
+ - Playing Video Games
  
  Some of my favorite games include
  
- [<img src="https://static-cdn.jtvnw.net/ttv-boxart/Super%20Smash%20Bros.%20Melee.jpg" width ="250"/>](SSBM) [<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Transistor_art.jpg" width ="250"/>](Transistor) [<img src="https://www.mobygames.com/images/covers/l/372094-bastion-xbox-one-front-cover.png" width ="250"/>](Bastion) 
- 
-
- 
+ [<img src="https://static-cdn.jtvnw.net/ttv-boxart/Super%20Smash%20Bros.%20Melee.jpg" width ="250"/>](SSBM) [<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Transistor_art.jpg" width ="250"/>](Transistor) [<img src="https://www.mobygames.com/images/covers/l/372094-bastion-xbox-one-front-cover.png" width ="250"/>](Bastion) [<img src="https://upload.wikimedia.org/wikipedia/en/a/ad/Pyre_cover_art.jpg" width ="250"/>](Pyre) 
  
  
 
-## Task Lists 
+## Life Goals
 
 Things to Do
 
-- [x] Do Lab1
-- [ ] Do Engineer Statement 
+- [x] Learn how to code
+- [ ] Make amazings projects
+- [ ] See the effects of my work in the world
+- [ ] ~~Conquer the world~~
+
+[Back to Top]()
+
+This site was built using [GitHub Pages](https://pages.github.com/)
